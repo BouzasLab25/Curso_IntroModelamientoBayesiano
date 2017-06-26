@@ -1,0 +1,71 @@
+﻿Lista de Referencias:
+
+
+
+
+
+Libros Base:
+
+1. 'Bayesian Cognitive Modeling: A practical Course' by Michael D. Lee & Eric-Jan Wagenmakers
+
+
+
+
+
+Material de Apoyo (Recomendado):
+
+1. Bayesian methods in cognitive modeling - Michael D. Lee (Handbook de Stevens)
+
+2. 
+
+
+
+
+Material de Apoyo (Consulta):
+
+
+
+
+
+
+
+
+Artículos de interés:
+
+
+
+-Bayes in the mind:
+
+>> 'How to Grow a Mind: Statistics, Structure, and Abstraction' - Joshua B. Tenenbaum; Charles Kemp; Thomas Griffiths; Noah Goodman (2011) Science
+
+>> 'Optimal Predictions in Everyday Cognition' - Thomas L. Griffiths and Joshua B. Tenenbaum (2006) - Psychological Science
+
+>> 'Pure reasoning in 12-Month-Old infants as probabilistic inference' Ernö Téglás; Edward Vul, Vittorio Girotto; Michel Gonzalez; Joshua B. Tenembaum; Luca L. Bonatti (2011) - Science
+
+>>> 'Theory-based Bayesian models of inductive learning and reasoning' - Joshua B. Tenenbaum; Thomas Griffiths and Charles Kemp (2006) - Cognitive Sciences
+
+>>> 'Generalization, similarity and Bayesian inference' - Joshua B. Tenenbaum; Thomas Griffiths (2001)- Behavioral and Brain Sciences.
+
+>>> 'One and Done? Optimal Decisions from very few samples' - Edward Vul; Noah Goodman; Thomas Griffiths; Joshua B. Tenenbaum (2014) -  Cognitive Science
+ 
+
+
+
+
+
+
+
+------
+-
+-----
+
+------
+
+Para más detalle, favor de consultar a los encargados del curso:
+
+
+Adriana F. Chávez De la Peña (adrifelcha@gmail.com)
+
+José Manuel Niño García
+
+Uriel Omar González Bravo
